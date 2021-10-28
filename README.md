@@ -42,4 +42,6 @@ Round; Player 1 Name; Player 1 Country; Player 1 Points; Player 2 Name; Player 2
 
 En Round o "Ronda" se pondrá el número de la ronda a la que corresponde ese partido, salvo en las semifinales que se pondrá S y en la final que se pondrá F. Por ejemplo, inicialmente los 32 jugadores jugarán 16 partidos en Ronda 1. Los 16 que quedan pasan a ronda 2 donde habrá 8 partidos. Los 8 ganadores jugarán la ronda 3 que tendrá 4 partidas. Los 4 ganadores se enfrantarán en semifilanes y los 2 ganadores en la gran final.
 
+Puedes encontrar un ejemplo del csv generado en el archivo worldCupResults.csv
+
 Suerte!
