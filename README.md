@@ -10,6 +10,8 @@
   - Modelado de datos
   - Decisiones que hayas tomado ante requisitos poco claros
 - La prueba la revisaremos contigo y te harémos preguntas que también formarán parte de la evaluación (por ejemplo, cómo has ido desarrollandolo, cuál ha sido la mayor dificultad,...)
+- Si tienes cualquier duda para la ejecución del proceso escribenos para aclarartela sin problemas.
+- Nos puedes mandar el código por email o si lo prefieres puedes montar algún repo si quieres también que veamos los pasitos que has ido haciendo. No es obligatorio. Lo que menos te cueste.
 
 ## BalloonWorldCup Simulator
 
