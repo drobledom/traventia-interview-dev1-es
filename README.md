@@ -25,7 +25,7 @@ https://twitter.com/balloonworldcup?lang=es
 
 El objetivo del programa a implementar es realizar el simulador de un mundial de globos. Encontrarás los jugadores participantes en el archivo players.json de este repositorio. Cada jugador tiene 2 características de juego: velocidad y fuerza. Dichas características tendrán un valor en coma flotante entre 0 y 10.0.
 
-En una partida se enfrentan dos jugadores, jugador A y jugador B. La partida se termina cuando uno de los dos jugadores consigue 4 puntos (el ganador). Para conseguir un punto, uno de los jugadores debe "golpear" el globo y el otro (receptor) no debe alcanzarlo. Si lo alcanza, dicho jugador pasa a ser el que golpea en el siguiente turno.
+En una partida se enfrentan dos jugadores, jugador A y jugador B. La partida se termina cuando uno de los dos jugadores consigue 4 puntos (el ganador). Para conseguir un punto, uno de los jugadores debe "golpear" el globo y el otro (receptor) no debe alcanzarlo. Si lo alcanza, dicho jugador pasa a ser el que golpea y continúa el punto. En caso de no alcanzar el globo, el jugador que ha golpeado consigue el punto y comienza un nuevo punto empezando por el jugador que perdió el anterior.
 
 El jugador A comienza "golpeando" y el jugador B tiene que alcanzar el globo. La distancia que alcanza el golpeador se calcula multiplicando su fuerza por un número aleatorio entre 0 y 1. Por ejemplo, en typescript:
 
