@@ -1,6 +1,6 @@
-# Prueba técnica #BallonWorldCup
+# Instrucciones prueba técnica #BallonWorldCup - Traventia dev1
 
-- Tu tiempo es muy importante. Esto no debería llevarte más de 1h. Si consideras que vas a tardar más simplifica e incluso no implementes algunas funciones (puedes comentar la intención de lo que quieres que haga)
+- **Tu tiempo es muy importante**. Esto no debería llevarte más de 1h. Si consideras que vas a tardar más simplifica e incluso no implementes algunas funciones (puedes comentar la intención de lo que quieres que haga)
 - Puedes desarrollar el programa en el lenguaje con el que te sientas más cómodo. Nos da igual que sea ts,js,java,c,c++,python,C#,...
 - Puedes implementarlo en tantos archivos como consideres necesarios
 - La prueba no es binaria. No está bien si funciona y mal si no lo está. Puedes conseguir que funcione bien y que no nos convenza y lo contrario. Evaluamos:
@@ -13,7 +13,7 @@
 
 ## BalloonWorldCup Simulator
 
-### Que es Ballon World Cup
+### Qué es Ballon World Cup
 
 Ibai y Piqué han organizado el primer mundial de globos del mundo. En una partida de globos se enfrentan dos jugadores con un globo. Uno de los jugadores golpea el globo lo más lejos que pueda (hay obstáculos en el terreno de juego). El otro jugador tiene que lograr evitar que el globo toque el suelo y golpearlo para que sea entonces el otro jugador el que tenga que evitarlo. Si el globo toca el suelo, el último jugador en golpearlo recibe un punto. Gana una partida el primero que llega a 4 puntos.
 
